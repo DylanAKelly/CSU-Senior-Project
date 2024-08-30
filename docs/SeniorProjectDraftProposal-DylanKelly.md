@@ -40,7 +40,7 @@ I will complete my project by making a program in Python or C++ that can determi
 
 **Schedule:**
 
-My schedule for the project will include regular updates (every 1-2 weeks) on project progress. The proposed schedule is as follows:
+My schedule for the project will include regular updates (every 1-2 weeks) on project progress. The proposed schedule* is as follows:
 
 - **Weeks 1-2 (08/26 to 09/08/2024)** - Partial completion of program core functions for OS (finding vulnerabilities and updates)
 
@@ -56,9 +56,9 @@ My schedule for the project will include regular updates (every 1-2 weeks) on pr
 
 - **Weeks 13-14 (11/18 to 12/01/2024)** - Program refinement + implementation of extra functionality
 
-- **Weeks 15-16 (12/02 to 12/15/2024)** - Program refinement + implementation of extra functionality 
+- **Weeks 15-16 (12/02 to 12/15/2024)** - Program refinement + implementation of extra functionality
+  
+  *From weeks 1-6, I will also construct my test plan. From week 7 onwards, I will continue to work on the test plan if/as needed, and testing will begin on the project in earnest.  From week 13 onward, I will begin a review process for my project. This review process will last until week 16 at which point I will begin using the information collected from my review to begin work on my Final Report. 
 
 [^1]: Radu, Constantinescu & Zota, Razvan Daniel. (2007). Issues of Operating
 Systems Security.
-
-
