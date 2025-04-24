@@ -4,7 +4,7 @@ My project is a vulnerability scanner for modern Windows operating systems (Wind
 
 ## Compile/Deploy
 
-In order to compile and deploy this program, you will need to download Python 3.13 [here](https://www.python.org/downloads/) and download an Integrated Developing Environment (IDE) of your choosing. If you are unfamiliar with IDEs, I personally use [Visual Studio Code](https://code.visualstudio.com/) and would recommend it. You will also need to download the files in this repository. Once you have installed Python, your IDE of choice, and the files in the repository, navigate to the "src" folder using the command line. Once there, type "pip install requests" and let the module install. Then run "pip install beautifulsoup4" and open the src folder in the IDE, click on "VulnScanner.py" and run the program. 
+In order to compile and deploy this program, you will need to download Python 3.13 [here](https://www.python.org/downloads/) and download an Integrated Developing Environment (IDE) of your choosing. If you are unfamiliar with IDEs, I personally use [Visual Studio Code](https://code.visualstudio.com/) and would recommend it. You will also need to download the files in this repository. Once you have installed Python, your IDE of choice, and the files in the repository, navigate to the "src" folder using the command line. Once there, type "pip install requests" and let the module install. Then type "pip install beautifulsoup4" and let the module install. Open the src folder in the IDE, click on "VulnScanner.py" and run the program. 
 
 ## Usage and Options
 
